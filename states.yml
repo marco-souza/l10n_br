@@ -1,0 +1,53 @@
+# Canada
+- name: Alberta
+  country_id: '35'
+  id: '101'
+  abbr: AB
+- name: British Columbia
+  country_id: '35'
+  id: '102'
+  abbr: BC
+- name: Manitoba
+  country_id: '35'
+  id: '103'
+  abbr: MB
+- name: New Brunswick
+  country_id: '35'
+  id: '104'
+  abbr: NB
+- name: Newfoundland and Labrador
+  country_id: '35'
+  id: '105'
+  abbr: NL
+- name: Nova Scotia
+  country_id: '35'
+  id: '106'
+  abbr: NS
+- name: Northwest Territories
+  country_id: '35'
+  id: '107'
+  abbr: NT
+- name: Nunavut
+  country_id: '35'
+  id: '108'
+  abbr: NU
+- name: Ontario
+  country_id: '35'
+  id: '109'
+  abbr: 'ON'
+- name: Prince Edward Island
+  country_id: '35'
+  id: '110'
+  abbr: PE
+- name: Quebec
+  country_id: '35'
+  id: '111'
+  abbr: QC
+- name: Saskatchewan
+  country_id: '35'
+  id: '112'
+  abbr: SK
+- name: Yukon
+  country_id: '35'
+  id: '113'
+  abbr: YT
