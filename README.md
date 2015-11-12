@@ -1,4 +1,4 @@
-# i10n_ca
+# Canadian localisation data
 
 Canadian database seed localisation used by the [OFN deployment](https://github.com/openfoodfoundation/ofn_deployment) project.
 
