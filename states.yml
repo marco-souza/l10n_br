@@ -1,53 +1,109 @@
 # Canada
-- name: Alberta
-  country_id: '35'
+- name: Acre
+  abbr: AC
+  country_id: '55'
   id: '101'
-  abbr: AB
-- name: British Columbia
-  country_id: '35'
+- name: Alagoas
+  abbr: AL
+  country_id: '55'
   id: '102'
-  abbr: BC
-- name: Manitoba
-  country_id: '35'
+- name: Amapá
+  abbr: AP
+  country_id: '55'
   id: '103'
-  abbr: MB
-- name: New Brunswick
-  country_id: '35'
+- name: Amazonas
+  abbr: AM
+  country_id: '55'
   id: '104'
-  abbr: NB
-- name: Newfoundland and Labrador
-  country_id: '35'
+- name: Bahia
+  abbr: BA
+  country_id: '55'
   id: '105'
-  abbr: NL
-- name: Nova Scotia
-  country_id: '35'
+- name: Ceará
+  abbr: CE
+  country_id: '55'
   id: '106'
-  abbr: NS
-- name: Northwest Territories
-  country_id: '35'
+- name: Distrito Federal
+  abbr: DF
+  country_id: '55'
   id: '107'
-  abbr: NT
-- name: Nunavut
-  country_id: '35'
+- name: Espírito Santo
+  abbr: ES
+  country_id: '55'
   id: '108'
-  abbr: NU
-- name: Ontario
-  country_id: '35'
+- name: Goiás
+  abbr: GO
+  country_id: '55'
   id: '109'
-  abbr: 'ON'
-- name: Prince Edward Island
-  country_id: '35'
+- name: Maranhão
+  abbr: MA
+  country_id: '55'
   id: '110'
-  abbr: PE
-- name: Quebec
-  country_id: '35'
+- name: MatoGrosso
+  abbr: MT
+  country_id: '55'
   id: '111'
-  abbr: QC
-- name: Saskatchewan
-  country_id: '35'
+- name: MatoGrosso do Sul
+  abbr: MS
+  country_id: '55'
   id: '112'
-  abbr: SK
-- name: Yukon
-  country_id: '35'
+- name: Minas Gerais
+  abbr: MG
+  country_id: '55'
   id: '113'
-  abbr: YT
+- name: Pará
+  abbr: PA
+  country_id: '55'
+  id: '114'
+- name: Paraíba
+  abbr: PB
+  country_id: '55'
+  id: '115'
+- name: Paraná
+  abbr: PR
+  country_id: '55'
+  id: '116'
+- name: Pernambuco
+  abbr: PE
+  country_id: '55'
+  id: '117'
+- name: Piauí
+  abbr: PI
+  country_id: '55'
+  id: '118'
+- name: Rio de Janeiro
+  abbr: RJ
+  country_id: '55'
+  id: '119'
+- name: Rio Grande do Norte
+  abbr: RN
+  country_id: '55'
+  id: '120'
+- name: Rio Grande do Sul
+  abbr: RS
+  country_id: '55'
+  id: '121'
+- name: Rondônia
+  abbr: RO
+  country_id: '55'
+  id: '122'
+- name: Roraima
+  abbr: RR
+  country_id: '55'
+  id: '123'
+- name: Santa Catarina
+  abbr: SC
+  country_id: '55'
+  id: '124'
+- name: São Paulo
+  abbr: SP
+  country_id: '55'
+  id: '125'
+- name: Sergipe
+  abbr: SE
+  country_id: '55'
+  id: '126'
+- name: Tocantins
+  abbr: TO
+  country_id: '55'
+  id: '127'
